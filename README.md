@@ -10,4 +10,4 @@ A Python-based computer vision tool that turns your webcam into a touchless mous
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run the script: `python scroller.py`
+2. Run the script: `python Touchless_Controller.py`
